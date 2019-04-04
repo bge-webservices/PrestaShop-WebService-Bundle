@@ -10,10 +10,12 @@
         }
     ],
     "require": {
-        "symfony/symfony": ">=2.1"
+        "symfony/symfony": ">=3.0"
     },
     "autoload": {
-        "psr-0": { "IQ2i\\PrestaShopWebServiceBundle\\": "" }
+        "psr-0": {
+            "IQ2i\\PrestaShopWebServiceBundle\\": ""
+        }
     },
     "target-dir": "IQ2i/PrestaShopWebServiceBundle"
 }
